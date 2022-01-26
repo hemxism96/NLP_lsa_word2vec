@@ -1,6 +1,5 @@
 # NLP_lsa_word2vec
-It's basic NLP examples using Latent Semantic Analysis and AG news dataset.
-The first part is nlp example using lsa and the second one is analysis AG news dataset.
+It's basic NLP examples. The first part is nlp example using lsa and the second one is analysis AG news dataset.
 
 ## Prerequisites
 - Python
